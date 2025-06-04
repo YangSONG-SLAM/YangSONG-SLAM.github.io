@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Robotics, University of Technology Sydney (UTS), 2025 (expected)
+* M.S. in Mathematics, Beijing Institute of Technology (BIT), 2020
+* B.S. in Mathematics, Beijing Institute of Technology (BIT), 2017
 
-Work experience
+Teaching Experience 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Lecturer on the Seminar “Differential Manifold”, BIT, 09/2015~12/2015
+* Teaching Assistant on the course “Topology”, BIT, 03/2017~05/2017
+* Lecturer on the Seminar “Information Geometry”, BIT, 03/2018~05/2018
+* Tutor for “49928 Design Optimisation for Manufacturing”, UTS, 08/2023~11/2023
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SLAM, Differential Geometry, Bayesian Estimation, Optimization
+* MATLAB, Python
+
+Academic Activities   
+======
+* Reviewer of IEEE Transactions on Robotics (T-RO)
+* Reviewer of IEEE Transactions on Mechatronics (T-Mech)
+* Reviewer of IEEE Robotics and Automation Letters (RA-L)
+* Reviewer of IEEE International Conference on Robotics and Automation (ICRA) 
+* Reviewer of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 Publications
 ======
@@ -47,18 +41,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
