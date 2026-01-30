@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Robotics, University of Technology Sydney (UTS), 2025 (expected)
+* Ph.D in Robotics, University of Technology Sydney (UTS), 2025
 * M.S. in Mathematics, Beijing Institute of Technology (BIT), 2020
 * B.S. in Mathematics, Beijing Institute of Technology (BIT), 2017
 
