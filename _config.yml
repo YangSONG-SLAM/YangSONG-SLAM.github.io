@@ -13,7 +13,7 @@ title                    : "Yang Song"
 title_separator          : "-"
 name                     : &name "Yang Song"
 description              : &description "Research Associate at The University of Manchester"
-url                      : "https://yangsong-slam.github.io/"
+url                      : "https://yangsong-slam.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YangSONG-SLAM/YangSONG-SLAM.github.io"
 
